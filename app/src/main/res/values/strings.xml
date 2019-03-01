@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">oSample</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="posts">Посты</string>
+    <string name="albums">Альбомы</string>
+    <string name="no_network">Нет интернет соединения</string>
+    <string name="loading">Загрузка</string>
+    <string name="comments">Комментарии :</string>
+</resources>
